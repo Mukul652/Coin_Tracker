@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Coin_Tracker/static/css/main.d4622278.css",
+    "main.js": "/Coin_Tracker/static/js/main.83b77579.js",
+    "index.html": "/Coin_Tracker/index.html",
+    "main.d4622278.css.map": "/Coin_Tracker/static/css/main.d4622278.css.map",
+    "main.83b77579.js.map": "/Coin_Tracker/static/js/main.83b77579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4622278.css",
+    "static/js/main.83b77579.js"
+  ]
+}
